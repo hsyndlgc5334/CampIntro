@@ -15,6 +15,6 @@
 
 ------
 
-**Değer Tipleri:** “int”, “long”, “float”, “double”, “decimal”, “char”, “bool”, “byte”, “short”, “struct”, “enum”
+**Değer Tipleri:** “int”, “long”, “float”, “double”, “decimal”, “char”, “bool”, “byte”, “short”, “struct”, “enum” (Stack)
 
-**Referans Tipleri:** “string”, “object”, “class”, “interface”, “array”, “delegate”, “pointer”
+**Referans Tipleri:** “string”, “object”, “class”, “interface”, “array”, “delegate”, “pointer” (Heap)

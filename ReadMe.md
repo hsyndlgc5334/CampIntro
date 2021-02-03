@@ -30,8 +30,8 @@
   - [x] [Ödev Linki](https://www.youtube.com/watch?v=ruGBQ8BS_Co) (İzlenecek..)
   - [x] [Ödev Linki](https://www.youtube.com/watch?v=_gadwBmkAJ0) (İzlenecek..)
   - [x] [Ödev Linki](https://www.youtube.com/watch?v=eq7lgV0m2so) (İzlenecek..)
-  - [ ] C# Dictionary
-  - [ ] MyDictionary sınıfı oluşturup ekleme metodu yazınız.
+  - [x] C# Dictionary
+  - [x] MyDictionary sınıfı oluşturup ekleme metodu yazınız.
 
 ------
 
